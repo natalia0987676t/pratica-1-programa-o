@@ -16,3 +16,9 @@ body{
 footer{
     text-align: center;
 }
+.imagem{
+     text-align: center;
+}
+.botao{
+     border-radius: 20px;
+}
